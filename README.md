@@ -1,4 +1,5 @@
-<a href="https://github.com/ThreadedDev/ThreadedDev/stargazers"><img src="https://img.shields.io/github/stars/ThreadedDev/ThreadedDev" alt="Stars Badge"/></a>
-<a href="https://github.com/ThreadedDev/ThreadedDev/network/members"><img src="https://img.shields.io/github/forks/ThreadedDev/ThreadedDev" alt="Forks Badge"/></a>
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreadedDev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a><img src="https://img.shields.io/github/followers/ThreadedDev?label=Stars&style=social"/></a>
+<a><img src="https://img.shields.io/github/followers/ThreadedDev?label=Forks&style=social"/></a>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreadedDev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</br>
