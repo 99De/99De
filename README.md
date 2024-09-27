@@ -11,10 +11,9 @@
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
   <br/>
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=99de&color=cd205f&style=for-the-badge&labelColor=cd205f" alt="GitHub Profile View Counter" />
     <a href="https://github.com/99de?tab=repositories&sort=stargazers">
       <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/99de?color=cd205f&style=for-the-badge&labelColor=cd205f&logo=star"/></a>
     <a href="https://github.com/99de?tab=followers">
-      <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/99de?color=cd205f&labelColor=cd205f&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    </p>
-  <br/>
-</div>
+      <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/99de?color=cd205f&labelColor=cd205f&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  </p>
