@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=200&width=1000&lines=WELCOME+TO+MY+PROFILE!&center=true&color=d6ff00&size=35" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=200&width=1000&lines=ДОБРО+ПОЖАЛОВАТЬ+В+МОЙ+ПРОФИЛЬ!&center=true&color=d6ff00&size=35" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=200&width=1000&lines=WILLKOMMEN+AUF+MEINEM+PROFIL!!&center=true&color=d6ff00&size=35" alt="Typing SVG" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99De&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/>
   </br>
