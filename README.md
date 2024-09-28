@@ -11,7 +11,6 @@
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
   <br/>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=99de&color=990000&style=for-the-badge&labelColor=990000" alt="GitHub Profile View Counter" />
     <a href="https://github.com/99de?tab=repositories&sort=stargazers">
       <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/99de?color=990000&style=for-the-badge&labelColor=990000&logo=star"/></a>
     <a href="https://github.com/99de?tab=followers">
