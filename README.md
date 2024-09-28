@@ -12,7 +12,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/99de?tab=repositories&sort=stargazers">
-      <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/99de?color=990000&style=for-the-badge&labelColor=990000&logo=star"/></a>
+      <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/99de?color=000000&style=for-the-badge&labelColor=000000&logo=star"/></a>
     <a href="https://github.com/99de?tab=followers">
-      <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/99de?color=990000&labelColor=990000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+      <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/99de?color=000000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   </p>
